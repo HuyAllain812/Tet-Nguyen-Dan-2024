@@ -290,4 +290,4 @@ function playback(){
 window.addEventListener('click',playback);  
 function hide(x){
     x.style.display='none';
-}x
+}
